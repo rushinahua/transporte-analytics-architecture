@@ -1,5 +1,6 @@
 <div align="center">
-
+🔒 Nota de confidencialidad: El código fuente del MVP se mantiene en un repositorio privado por contener lógica, reglas de negocio y de gobernabilidad de modelos. Esta sección expone en detalle la arquitectura de software, el diseño analítico y las decisiones de ingeniería implementadas.
+    
 # 🚇 MovilidadData — Analítica de Transporte Público
 
 ### Data Product para la Línea 1 del Metro de Lima
